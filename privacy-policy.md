@@ -40,6 +40,6 @@ Retention: We only retain support-related personal data for as long as necessary
 5. Your Rights
 Under the UK GDPR, you have the right to access, correct, or request the deletion of your data. You can also opt out of personalized advertising at any time through your Android device settings (Settings > Google > Ads).
 
-6. Contact Us
+6. Devloper - cloud n Ground Soft Tech ( Legal entity- Mediheal Ltd) .
 For questions regarding this policy or your data rights, please contact us at:
 Email: contact@cloudnground.com
