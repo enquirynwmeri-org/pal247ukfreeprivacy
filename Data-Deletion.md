@@ -9,4 +9,4 @@ To delete all of your personal information from the app:
 
 *Note: For data handled by our advertising partner (AdMob), you can reset your Advertising ID in your Android Device Settings.*
 
-Devloper - cloud n Ground Soft Tech ( Legal entity- Mediheal Ltd) for contact : contact@cloudnground.com
+Developer - cloud n Ground Soft Tech ( Legal entity- Mediheal Ltd) for contact : contact@cloudnground.com
